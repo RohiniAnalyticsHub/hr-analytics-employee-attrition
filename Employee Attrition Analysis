@@ -1,0 +1,36 @@
+# HR Analytics Dashboard – Employee Attrition Analysis
+
+## Project Overview
+This project explores employee attrition and workforce patterns using an HR dataset and an interactive HR Analytics Dashboard.
+
+## Objectives
+- Monitor employee headcount, active employees and attrition.
+- Compare attrition across departments and gender.
+- Explore attrition patterns by age group and education field.
+- Review job satisfaction ratings by job role.
+- Present HR insights to support further investigation and retention planning.
+
+## Tools
+- Microsoft Excel (source data review)
+- Tableau for visialisation
+
+## Dataset Summary
+- Employee records: 1,470
+- Fields: 41
+- Attrition: 237 employees
+- Active employees: 1,233
+- Overall attrition rate: 16.12%
+- Average age: 37 years
+
+## Key Findings
+- Sales has the highest department attrition rate in the dataset.
+- Employees under 25 have the highest age-band attrition rate.
+- The dataset records 150 male exits and 87 female exits.
+- Life Sciences has the highest number of exits by education field.
+- Job satisfaction ratings are compared across job roles.
+
+## Conclusion
+The dashboard provides a descriptive overview of employee attrition and highlights groups for further HR investigation. The patterns are not proof of the causes of attrition.
+
+## Author
+Rohini M R
