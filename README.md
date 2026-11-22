@@ -32,8 +32,7 @@ This project explores employee attrition and workforce patterns using an HR data
 The dashboard provides a descriptive overview of employee attrition and highlights groups for further HR investigation. The patterns are not proof of the causes of attrition.
 
   ### Dashboard Preview
-
-![HR Analytics Dashboard](dashboard/HR_Analytics_Dashboard.png)
+![HR Analytics Dashboard](HR_Analytics_Dashboard.png)
 
 ## Author
 Rohini M R
