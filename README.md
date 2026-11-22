@@ -28,10 +28,12 @@ This project explores employee attrition and workforce patterns using an HR data
 - The dataset records 150 male exits and 87 female exits.
 - Life Sciences has the highest number of exits by education field.
 - Job satisfaction ratings are compared across job roles.
-
-
 ## Conclusion
 The dashboard provides a descriptive overview of employee attrition and highlights groups for further HR investigation. The patterns are not proof of the causes of attrition.
+
+  ### Dashboard Preview
+
+![HR Analytics Dashboard](dashboard/HR_Analytics_Dashboard.png)
 
 ## Author
 Rohini M R
